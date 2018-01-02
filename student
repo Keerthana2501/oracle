@@ -1,1 +1,1 @@
-create table student(name varchar(20),no varchar(20),marks int,grade varchar(5));
+create table students(name varchar(20),rollno varchar(20),marks int,grade varchar(5));
